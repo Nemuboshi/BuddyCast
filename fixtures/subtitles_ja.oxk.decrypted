@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+  <SubData>
+    <SubLineData>
+      <Start>1.23</Start>
+      <End>3.45</End>
+      <Alignment>bottom</Alignment>
+      <Arrangement></Arrangement>
+      <Text>{\r1}男{\r2}おとこ{\r0}です</Text>
+      <Comment></Comment>
+    </SubLineData>
+    <SubLineData>
+      <Start>4.0</Start>
+      <End>6.5</End>
+      <Alignment>bottom_left</Alignment>
+      <Arrangement></Arrangement>
+      <Text>二行目</Text>
+      <Comment>note</Comment>
+    </SubLineData>
+  </SubData>
+</Root>

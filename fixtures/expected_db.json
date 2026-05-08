@@ -1,0 +1,67 @@
+{
+  "path": "sample.db",
+  "file_size": 114,
+  "dbVersion": 1,
+  "header_offset_after_two_headers": 102,
+  "mainHeader": {
+    "SampleRate": 48000,
+    "BitPerSample": 16,
+    "FrameShift": 512,
+    "FrameSize": 1024,
+    "MFCCDimension": 13,
+    "MFCCCorrelationDimensionStart": 0,
+    "MFCCCorrelationDimensionEnd": 12,
+    "FFTDimension": 1024,
+    "EvaluationThreshold": 0.5,
+    "EvaluationCoefficient": 1.25,
+    "CorrelationThreshold": 0.75,
+    "ComparisonInterval": 2,
+    "DeletedSameData": 0,
+    "DataLength": 8,
+    "MovieStartTime": 123456789
+  },
+  "subHeader": {
+    "SampleRate": 24000,
+    "BitPerSample": 16,
+    "FrameShift": 256,
+    "FrameSize": 512,
+    "MFCCDimension": 10,
+    "MFCCCorrelationDimensionStart": 0,
+    "MFCCCorrelationDimensionEnd": 9,
+    "FFTDimension": 512,
+    "EvaluationThreshold": 0.25,
+    "EvaluationCoefficient": 2,
+    "CorrelationThreshold": 0.33000001311302185,
+    "ComparisonInterval": 1,
+    "DeletedSameData": 1,
+    "DataLength": 4,
+    "MovieStartTime": 987654321
+  },
+  "payload_length_expected_from_headers": 12,
+  "payload_length_actual": 12,
+  "size_matches_header": true,
+  "mainData": {
+    "length": 8,
+    "first_16_hex": "00017f80ff102030",
+    "first_32_signed_byte_values": [
+      0,
+      1,
+      127,
+      -128,
+      -1,
+      16,
+      32,
+      48
+    ]
+  },
+  "subData": {
+    "length": 4,
+    "first_16_hex": "050607fa",
+    "first_32_signed_byte_values": [
+      5,
+      6,
+      7,
+      -6
+    ]
+  }
+}

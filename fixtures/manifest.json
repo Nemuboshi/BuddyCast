@@ -1,0 +1,30 @@
+{
+  "contents.sample.json": {
+    "sha256": "4bc33ffe453005bf36d1011891ba74e1640684b1412fd75efaa9a28ec0363c76",
+    "size": 939
+  },
+  "encrypted.zip": {
+    "sha256": "c069c33c4a3e52a87f64fa59ce381b3be5dc5c60a4e8a51673bf9527a88dfa50",
+    "size": 699
+  },
+  "decrypted.zip": {
+    "sha256": "8675f9cb964e9563ae47a66fcee2d2909c5096a35f35373b5d9ea1e9d5e187c8",
+    "size": 699
+  },
+  "subtitles_ja.oxk.decrypted": {
+    "sha256": "9bb5f4aa9245dc87b687ba196457a0a74bd762a2258d0601e6adedc45fb1a776",
+    "size": 530
+  },
+  "expected.ass": {
+    "sha256": "d0e47acf9c9471affaa84599277f8dce684c8f5c15323a4abf9275965bae37c5",
+    "size": 723
+  },
+  "sample.db": {
+    "sha256": "3e4ffdf92a7e79028a1707916b600f915a8c04295b6fb5822a218c1f6faa8370",
+    "size": 114
+  },
+  "expected_db.json": {
+    "sha256": "cc2a06f530aeb5c401a6d0b186c39a57edbd2b101cc06b1c5f67ab25dbf4799d",
+    "size": 1485
+  }
+}
